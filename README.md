@@ -62,12 +62,6 @@ Gmail
 
 ---
 
-## Project Screenshots
-
-See the screenshots folder.
-
----
-
 ## Future Enhancements
 
 - Slack Integration
